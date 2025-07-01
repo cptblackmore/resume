@@ -16,28 +16,29 @@
   <div>
     <h4>Frontend</h4>
     <div>React, TypeScript,</div>
-	<div>MobX, React Router,</div>
-    <div>Axios</div>
+	<div>MobX, Redux Toolkit,</div>
+    <div>RTK Query, Next.js</div>
   </div>
   <div>
     <h4>UI & Styling</h4>
     <div>MUI, Emotion,</div>
-	<div>styled-jsx, SCSS,</div>
-    <div>BEM, Figma</div>
+	<div>Tailwind, SCSS,</div>
+    <div>BEM, Pixel Perfect</div>
   </div>
   <div>
     <h4>Backend & API</h4>
-    <div>Node.js, Express, JWT,</div>
+    <div>Node.js, Express, Zod,</div>
 	<div>MongoDB, REST API,</div>
-    <div>dotenv</div>
+    <div>MVC, JWT</div>
   </div>
   <div>
     <h4>Architecture & Tools</h4>
     <div>FSD, Vite, Webpack,</div>
-	<div>ESLint, Prettier,</div>
-    <div>Git, Postman</div>
+	<div>ESLint, Prettier, Jest,</div>
+    <div>Git, Postman, Docker</div>
   </div>
 </div>
+
 
 ## Проекты
 
@@ -69,7 +70,7 @@
 RESTful API-сервер для авторизации, избранного, геопоиска и проксирования.
  - Node.js, Express, MongoDB, JWT, dotenv  
  - Подтверждение регистрации через email  
- - Независимость от структуры и логики внешних API
+ - Независимость от структуры и логики клиента
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding-right: 0px; margin: 0">
   <span><h3>React ToDo List – быстрый и удобный список задач</h3></span>
